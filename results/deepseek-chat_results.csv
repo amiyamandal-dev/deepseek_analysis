@@ -1,0 +1,816 @@
+question,truth,prediction_simple,prediction_rag,prediction_response_simple,prediction_response_rag,context
+Were Scott Derrickson and Ed Wood of the same nationality?,yes,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty, so there is no information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**  
+Scott Derrickson is an American filmmaker, known for directing movies like *Doctor Strange* and *The Exorcism of Emily Rose*. Ed Wood, on the other hand, was also an American filmmaker, famous for cult classics like *Plan 9 from Outer Space*. Therefore, both Scott Derrickson and Ed Wood were of the same nationality—American.  
+
+**Final Answer:** Yes, Scott Derrickson and Ed Wood were both American.","Step 1: Analyze context for answering questions.
+The context provided is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any information about Scott Derrickson or Ed Wood, nor does it mention their nationalities.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question about Scott Derrickson and Ed Wood's nationalities.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention Scott Derrickson, Ed Wood, or their nationalities.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my own knowledge to answer the question.
+
+Step 5: Answer the question.
+Scott Derrickson is an American filmmaker, known for directing movies like ""Doctor Strange."" Ed Wood was also an American filmmaker, famous for cult classics like ""Plan 9 from Outer Space."" Therefore, Scott Derrickson and Ed Wood were of the same nationality—both were American.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.308439701795578}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.308439701795578}]"
+What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?,Chief of Protocol,1,1,"The woman who portrayed Corliss Archer in the film *Kiss and Tell* was Shirley Temple. After her acting career, Shirley Temple held several government positions, including serving as the U.S. Ambassador to Ghana and Czechoslovakia, and as the U.S. Chief of Protocol. Therefore, the government position held by the woman who portrayed Corliss Archer was **U.S. Ambassador**.","The woman who portrayed Corliss Archer in the film *Kiss and Tell* was Shirley Temple. Shirley Temple later held a government position as a U.S. diplomat. She served as the U.S. Ambassador to Ghana (1974–1976) and later as the U.S. Ambassador to Czechoslovakia (1989–1992). 
+
+The context you provided does not relate to the question, so I used my own knowledge to answer it.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2299710214138031}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2299710214138031}]"
+"What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",Animorphs,1,1,"The science fantasy young adult series you are referring to is likely **""The Illuminae Files""** by Amie Kaufman and Jay Kristoff. This series is told in a unique format that includes first-person accounts, documents, and multimedia elements. The main trilogy consists of *Illuminae*, *Gemina*, and *Obsidio*. Additionally, there are companion novellas, such as *Memento* and *Aurora Rising*, which expand on the stories of enslaved worlds, alien species, and other characters within the universe. The series blends science fiction and fantasy elements, making it a standout in the young adult genre.","The science fantasy young adult series you are referring to is likely **""The Illuminae Files""** by Amie Kaufman and Jay Kristoff. This series is told in a unique format, often through first-person accounts, documents, and multimedia elements. The story revolves around a galaxy-wide conspiracy, enslaved worlds, and various alien species. The companion books expand on the universe, providing deeper insights into the enslaved worlds and the different alien species involved in the overarching narrative.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2591710686683655}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2591710686683655}]"
+Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?,no,1,1,"Step 1: Analyze context for answering questions.  
+The provided context is empty, so there is no information to analyze.
+
+Step 2: Decide context is relevant with question or not relevant with question.  
+The context is not relevant to the question since it contains no information.
+
+Step 3: If any topic about question mentioned in context, use that information for question.  
+No relevant information is available in the context.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.  
+Since the context is empty, I will rely on my knowledge.
+
+Step 5: Answer the question.  
+The Laleli Mosque and Esma Sultan Mansion are both located in Istanbul, Turkey, but they are not in the same neighborhood. The Laleli Mosque is situated in the Laleli district, near the Grand Bazaar, while the Esma Sultan Mansion is located in the Ortaköy neighborhood, along the Bosphorus. These two locations are in different parts of the city.","Step 1: Analyze context for answering questions.
+The provided context is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not contain any information about the Laleli Mosque, Esma Sultan Mansion, or their locations.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention the Laleli Mosque or Esma Sultan Mansion.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my own knowledge to answer the question.
+
+Step 5: Answer the question.
+The Laleli Mosque and Esma Sultan Mansion are both located in Istanbul, Turkey, but they are not in the same neighborhood. The Laleli Mosque is situated in the Laleli district, near the Grand Bazaar, while the Esma Sultan Mansion is located in the Ortaköy neighborhood, along the Bosphorus. These two locations are in different parts of the city.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21824155747890472}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21824155747890472}]"
+"The director of the romantic comedy ""Big Stone Gap"" is based in what New York city?","Greenwich Village, New York City",1,1,"The director of the romantic comedy ""Big Stone Gap"" is Adriana Trigiani. She is based in New York City, specifically in Manhattan. Therefore, the director of ""Big Stone Gap"" is based in **New York City, Manhattan**.","The context provided does not mention anything about the director of the romantic comedy ""Big Stone Gap"" or their location. Therefore, I will use my own knowledge to answer the question.
+
+The director of ""Big Stone Gap"" is Adriana Trigiani. She is based in New York City, specifically in the Greenwich Village area. So, the director of ""Big Stone Gap"" is based in New York City.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2434355616569519}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2434355616569519}]"
+2014 S/S is the debut album of a South Korean boy group that was formed by who?,YG Entertainment,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**
+The South Korean boy group whose debut album is *2014 S/S* is **WINNER**. WINNER was formed by **YG Entertainment**, a prominent South Korean entertainment company. The group debuted in 2014 under YG Entertainment's management.","The context provided does not mention anything about the debut album of a South Korean boy group or who formed it. Therefore, I will use my own knowledge to answer the question.
+
+The 2014 S/S debut album is associated with the South Korean boy group **WINNER**, which was formed by **YG Entertainment**. WINNER debuted on August 17, 2014, with their album *2014 S/S*.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.3050912022590637}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.3050912022590637}]"
+Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?,Eenasul Fateh,1,1,"The context provided does not mention anyone known by the stage name Aladin or any information about a consultant who helped organizations improve their performance. Therefore, based on my knowledge, I cannot identify a specific individual known by the stage name Aladin who fits this description. If you have additional details or context, please provide them, and I will do my best to assist further.","The context provided does not mention anything about a person known by the stage name Aladin or anyone who helped organizations improve their performance as a consultant. Therefore, I will use my own knowledge to answer the question.
+
+The person known by the stage name Aladin who is recognized for his work as a consultant helping organizations improve their performance is **Aladin Aladin**. He is a well-known figure in the field of organizational development and performance improvement, often working with businesses to enhance their efficiency and effectiveness. If you need more specific details about his work or contributions, feel free to ask!","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20910385251045227}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20910385251045227}]"
+The arena where the Lewiston Maineiacs played their home games can seat how many people?,"3,677 seated",1,1,"The Lewiston Maineiacs, a former junior ice hockey team, played their home games at the Androscoggin Bank Colisee in Lewiston, Maine. The arena has a seating capacity of approximately **3,677** for hockey games. 
+
+**Answer**: The arena where the Lewiston Maineiacs played their home games can seat about 3,677 people.","The context provided does not mention anything about the Lewiston Maineiacs or the seating capacity of their arena. Therefore, I will use my general knowledge to answer the question.
+
+The Lewiston Maineiacs were a junior ice hockey team that played in the Quebec Major Junior Hockey League (QMJHL). Their home games were held at the Androscoggin Bank Colisée in Lewiston, Maine. The arena has a seating capacity of approximately **3,677** for hockey games. 
+
+So, the arena where the Lewiston Maineiacs played their home games can seat around **3,677 people**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21690452098846436}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21690452098846436}]"
+"Who is older, Annie Morton or Terry Richardson?",Terry Richardson,1,1,"Step 1: Analyze context for answering questions.
+- The context provided is empty ('''''').
+
+Step 2: Decide context is relevant with question or not relevant with question.
+- The context is not relevant as it contains no information.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+- No relevant information is provided in the context.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+- Since the context is empty, I will rely on my knowledge.
+
+Step 5: Answer the question.
+- Annie Morton and Terry Richardson are both public figures, but specific birthdates for Annie Morton are not widely documented. Terry Richardson was born on August 14, 1965. Without confirmed information about Annie Morton's birthdate, it is not possible to definitively determine who is older. If you have more specific information about Annie Morton's birthdate, I can provide a more accurate comparison.","Step 1: Analyze context for answering questions.
+The context provided is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any information about Annie Morton or Terry Richardson.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question about the ages of Annie Morton and Terry Richardson.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention Annie Morton or Terry Richardson.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context does not mention Annie Morton or Terry Richardson, I will use my own knowledge.
+
+Step 5: Answer the question.
+Annie Morton is a former adult film actress and model, while Terry Richardson is a well-known fashion photographer. Based on publicly available information, Terry Richardson was born in 1965, and Annie Morton's birth year is not widely documented, but she was active in the 1990s. Therefore, Terry Richardson is likely older than Annie Morton.
+
+**Answer**: Terry Richardson is older than Annie Morton.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20714178681373596}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20714178681373596}]"
+Are Local H and For Against both from the United States?,yes,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty (''''''), meaning there is no information given about Local H or For Against.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my knowledge.
+
+**Step 5: Answer the question.**
+Yes, both Local H and For Against are from the United States. Local H is an American rock band from Illinois, and For Against is an indie rock band from Nebraska.","Step 1: Analyze context for answering questions.
+The context provided is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any information about Local H or For Against, nor does it mention anything about their origins or nationalities.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question about Local H and For Against being from the United States.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention Local H or For Against, so no information can be used from it.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my own knowledge to answer the question.
+
+Step 5: Answer the question.
+Yes, both Local H and For Against are from the United States. Local H is an American rock band from Zion, Illinois, and For Against is an American post-punk band from Lincoln, Nebraska.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.3332071602344513}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.3332071602344513}]"
+"What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",Kansas Song,1,1,"The university you are referring to is the **University of Kansas (KU)**, located in Lawrence, Kansas, with branch campuses in the Kansas City metropolitan area. The fight song of the University of Kansas is called **""I'm a Jayhawk.""** It is a well-known and spirited anthem that reflects the pride and tradition of the university.","The context provided does not mention anything about the fight song of the university in Lawrence, Kansas, or its branch campuses. Therefore, I will use my own knowledge to answer the question.
+
+The university you are referring to is the **University of Kansas (KU)**, located in Lawrence, Kansas, with branch campuses in the Kansas City metropolitan area. The fight song of the University of Kansas is called **""I'm a Jayhawk.""** It is a well-known and spirited song associated with the university's athletic teams, particularly the Kansas Jayhawks.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20764091610908508}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20764091610908508}]"
+"What screenwriter with credits for ""Evolution"" co-wrote a film starring Nicolas Cage and Téa Leoni?",David Weissman,1,1,"The screenwriter with credits for ""Evolution"" who co-wrote a film starring Nicolas Cage and Téa Leoni is **David Diamond**. He co-wrote the screenplay for *The Family Man* (2000), which stars Nicolas Cage and Téa Leoni. David Diamond also co-wrote *Evolution* (2001) with his writing partner, David Weissman.","The screenwriter with credits for ""Evolution"" who co-wrote a film starring Nicolas Cage and Téa Leoni is **David Diamond**. He co-wrote the screenplay for ""The Family Man"" (2000), which stars Nicolas Cage and Téa Leoni. David Diamond also co-wrote ""Evolution"" (2001) with David Weissman. 
+
+The context you provided does not mention this information, so I used my own knowledge to answer the question.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23586955666542053}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23586955666542053}]"
+What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?,1999,1,1,"Guns N' Roses performed a promo for the movie *Last Action Hero*, which starred Arnold Schwarzenegger as a former New York Police detective. This occurred in **1993**. The band contributed the song ""Welcome to the Jungle"" to the movie's soundtrack.","The context provided does not mention anything about Guns N Roses, Arnold Schwarzenegger, or a movie promo. Therefore, I will use my own knowledge to answer your question.
+
+Guns N' Roses performed a promo for the movie *Last Action Hero*, which stars Arnold Schwarzenegger as a former New York Police detective. The movie was released in **1993**, and Guns N' Roses contributed the song ""Welcome to the Jungle"" to its soundtrack. The promo likely took place around the same time as the movie's release.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.22536145150661469}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.22536145150661469}]"
+Are Random House Tower and 888 7th Avenue both used for real estate?,no,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze regarding Random House Tower and 888 7th Avenue.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+Since the context is empty, it is not relevant to the question.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No information is provided in the context, so this step is not applicable.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my own knowledge to answer the question.
+
+**Step 5: Answer the question.**
+Yes, both Random House Tower and 888 7th Avenue are used for real estate purposes. Random House Tower is a skyscraper in New York City that serves as the headquarters for Random House, a publishing company, and also contains office spaces. 888 7th Avenue, also known as the AXA Equitable Center, is another skyscraper in New York City that is primarily used for office spaces and commercial real estate. Both buildings are significant in the real estate market of New York City.","Step 1: Analyze context for answering questions.
+The provided context is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any relevant information about Random House Tower or 888 7th Avenue.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention Random House Tower or 888 7th Avenue.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my own knowledge.
+
+Step 5: Answer the question.
+Yes, both Random House Tower and 888 7th Avenue are used for real estate. Random House Tower is a skyscraper in New York City that serves as the headquarters for Random House, a publishing company, but it also includes office spaces. 888 7th Avenue is another skyscraper in New York City that is primarily used for office spaces, making it a part of the real estate market.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.18922536075115204}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.18922536075115204}]"
+The football manager who recruited David Beckham managed Manchester United during what timeframe?,from 1986 to 2013,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**
+The football manager who recruited David Beckham was Sir Alex Ferguson. He managed Manchester United from **November 1986 to May 2013**.","The football manager who recruited David Beckham was Sir Alex Ferguson. He managed Manchester United from **November 1986 to May 2013**. During this time, he played a pivotal role in developing and nurturing young talents like David Beckham, who became a key player for the club.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.14918473362922668}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.14918473362922668}]"
+Brown State Fishing Lake is in a country that has a population of how many inhabitants ?,"9,984",1,1,"To answer the question about the population of the country where Brown State Fishing Lake is located, we need to identify the country first. Brown State Fishing Lake is located in Kansas, USA. 
+
+The United States has a population of approximately **331 million** inhabitants.
+
+**Answer**: The country where Brown State Fishing Lake is located has a population of approximately 331 million inhabitants.","The context provided does not mention anything about Brown State Fishing Lake or the population of the country where it is located. Therefore, I will use my general knowledge to answer the question.
+
+Brown State Fishing Lake is located in the United States. As of the most recent data, the United States has a population of approximately **331 million inhabitants**. 
+
+So, the country where Brown State Fishing Lake is located has a population of around **331 million inhabitants**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21851275861263275}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21851275861263275}]"
+The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?,the North Atlantic Conference,1,1,"The Vermont Catamounts men's soccer team currently competes in the America East Conference. From 1988 to 1996, this conference was formerly known as the **North Atlantic Conference**. 
+
+So, the answer is: **North Atlantic Conference**.","The Vermont Catamounts men's soccer team currently competes in the America East Conference. From 1988 to 1996, this conference was formerly known as the **North Atlantic Conference**. 
+
+So, the answer is: **North Atlantic Conference**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23246346414089203}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23246346414089203}]"
+Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?,yes,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty (''''''), so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**  
+Yes, both Giuseppe Verdi and Ambroise Thomas are opera composers.  
+- Giuseppe Verdi (1813–1901) was an Italian composer famous for operas such as *La Traviata*, *Rigoletto*, and *Aida*.  
+- Ambroise Thomas (1811–1896) was a French composer known for operas like *Mignon* and *Hamlet*.  
+
+Both made significant contributions to the opera genre.","Step 1: Analyze context for answering questions.  
+The context provided (""t: i, s: e"") does not contain any information about Giuseppe Verdi, Ambroise Thomas, or opera composers.  
+
+Step 2: Decide context is relevant with question or not relevant with question.  
+The context is not relevant to the question.  
+
+Step 3: If any topic about question mentioned in context, use that information for question.  
+No relevant information is found in the context.  
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.  
+I will use my knowledge to answer the question.  
+
+Step 5: Answer the question.  
+Yes, Giuseppe Verdi and Ambroise Thomas are both opera composers. Giuseppe Verdi is an Italian composer known for operas like *La Traviata*, *Aida*, and *Rigoletto*. Ambroise Thomas is a French composer famous for operas such as *Mignon* and *Hamlet*.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2121911644935608}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2121911644935608}]"
+Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?,1969 until 1974,1,1,"Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during the administration of President Richard Nixon. Richard Nixon was the 37th President of the United States, serving from **January 20, 1969, to August 9, 1974**. Therefore, Roger O. Egeberg held his position during those years.","Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during the administration of President Richard Nixon. Richard Nixon served as President of the United States from **January 20, 1969, to August 9, 1974**. Therefore, Roger O. Egeberg held his position during those years. 
+
+The context you provided does not mention anything about Roger O. Egeberg or the years of Nixon's presidency, so I used my own knowledge to answer the question.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2371358871459961}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2371358871459961}]"
+"Which writer was from England, Henry Roth or Robert Erskine Childers?",Robert Erskine Childers DSC,1,1,"Step 1: Analyze context for answering questions.
+- The context provided is empty ('''''').
+
+Step 2: Decide context is relevant with question or not relevant with question.
+- The context is not relevant as it contains no information.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+- No relevant information is present in the context.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+- Since the context is empty, I will use my own knowledge.
+
+Step 5: Answer the question.
+- Henry Roth was an American writer, best known for his novel *Call It Sleep*. Robert Erskine Childers was an English writer and nationalist, famous for his novel *The Riddle of the Sands*. Therefore, **Robert Erskine Childers** was the writer from England.","The context provided does not mention either Henry Roth or Robert Erskine Childers. Therefore, I will use my own knowledge to answer the question.
+
+Robert Erskine Childers was an Irish writer and nationalist, best known for his novel *The Riddle of the Sands*. He was not from England.
+
+Henry Roth, on the other hand, was an American novelist, best known for his work *Call It Sleep*. He was also not from England.
+
+Neither Henry Roth nor Robert Erskine Childers was from England. If you are looking for a writer from England, you might consider authors like Charles Dickens, Jane Austen, or George Orwell.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.19200271368026733}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.19200271368026733}]"
+Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?,Pedro Rodríguez,1,1,"The Mexican Formula One race car driver who has held the podium besides Sergio Pérez (the Force India driver born in 1990) is **Pedro Rodríguez**. Rodríguez achieved several podium finishes during his career in the 1960s and 1970s, including a win at the 1967 South African Grand Prix and the 1970 Belgian Grand Prix. He is considered one of Mexico's most successful Formula One drivers.","The context provided does not mention any Mexican Formula One race car drivers or any information related to the question. Therefore, I will use my own knowledge to answer the question.
+
+The Mexican Formula One race car driver who has held the podium besides Sergio Pérez (the Force India driver born in 1990) is **Pedro Rodríguez**. Pedro Rodríguez was a successful Mexican driver who competed in Formula One during the 1960s and early 1970s. He achieved several podium finishes during his career, including a win at the 1967 South African Grand Prix and the 1970 Belgian Grand Prix.
+
+So, the answer is **Pedro Rodríguez**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.16695712506771088}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.16695712506771088}]"
+This singer of A Rather Blustery Day also voiced what hedgehog?,Sonic,1,1,"The singer of ""A Rather Blustery Day"" is Jim Cummings. He is also known for voicing the character Winnie the Pooh in various Disney productions. However, Jim Cummings is not known for voicing a hedgehog. If you are referring to a hedgehog character, it might be Sonic the Hedgehog, but Jim Cummings did not voice Sonic. Sonic has been voiced by various actors, including Roger Craig Smith and Ben Schwartz in different media. 
+
+If you meant a different hedgehog or context, please clarify!","The singer of ""A Rather Blustery Day"" is Jim Cummings, who is also known for voicing the character Winnie the Pooh. However, Jim Cummings is not known for voicing a hedgehog. The context provided does not mention a hedgehog, so based on general knowledge, the hedgehog you might be referring to is Sonic the Hedgehog, but Sonic is typically voiced by other actors, such as Roger Craig Smith or Ben Schwartz, not Jim Cummings. If you meant a different hedgehog, please provide more context.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20638303458690643}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20638303458690643}]"
+"Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",keyboard function keys,1,1,"The Apple Remote was originally designed to interact with Apple's Front Row software, which was a media center interface for browsing and playing media on Mac computers. Aside from the Apple Remote, other devices that could control Front Row include:
+
+1. **Apple Keyboard with Media Keys**: Some Apple keyboards have dedicated media keys that could be used to control Front Row.
+2. **Third-Party Remote Controls**: Some third-party remote controls that were compatible with Macs could also be used to control Front Row.
+3. **iOS Devices**: With the help of third-party apps, iOS devices like iPhones and iPads could be used as remote controls for Front Row.
+
+It's worth noting that Front Row was discontinued by Apple in 2011, so these devices are no longer used for this specific purpose in modern Apple ecosystems.","The Apple Remote was originally designed to interact with Apple's Front Row software, which was a media center interface for navigating and playing media on Mac computers. Aside from the Apple Remote, other devices that could control Front Row include:
+
+1. **Apple Keyboard**: Some Apple keyboards, such as the Apple Wireless Keyboard, had media control keys that could be used to navigate and control Front Row.
+2. **Third-party remotes**: Some third-party infrared (IR) remotes that were compatible with Apple's IR receiver could also be used to control Front Row.
+3. **iOS Devices**: With the help of third-party apps, iOS devices like the iPhone or iPad could be used as remote controls for Front Row via Wi-Fi.
+
+However, it's worth noting that Front Row was discontinued by Apple in 2011, so these control methods are no longer relevant for modern Apple devices.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23773832619190216}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23773832619190216}]"
+"Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",Badly Drawn Boy,1,1,"To answer the question about which performance act has a higher instrument-to-person ratio, we need to consider the typical setups of **Badly Drawn Boy** and **Wolf Alice**.
+
+1. **Badly Drawn Boy**: This is the stage name of Damon Gough, a solo artist who often performs with a backing band. However, as a solo act, the instrument-to-person ratio can vary depending on the performance setup. He often plays multiple instruments himself, such as guitar, piano, and others, but the ratio is generally lower compared to a full band.
+
+2. **Wolf Alice**: This is a four-piece band consisting of Ellie Rowsell (vocals, guitar), Joff Oddie (guitar), Theo Ellis (bass), and Joel Amey (drums). They typically perform with each member playing one or two instruments, resulting in a higher instrument-to-person ratio compared to a solo act like Badly Drawn Boy.
+
+**Conclusion**: **Wolf Alice** likely has a higher instrument-to-person ratio compared to **Badly Drawn Boy**, as they are a full band with each member contributing multiple instruments, whereas Badly Drawn Boy is primarily a solo act.","The context provided does not mention anything about Badly Drawn Boy or Wolf Alice, nor does it provide information about their performance acts or instrument-to-person ratios. Therefore, I will use my general knowledge to answer the question.
+
+Badly Drawn Boy is primarily a solo act by Damon Gough, who often performs with a band but is known for his solo work. Wolf Alice, on the other hand, is a band with multiple members, typically including a guitarist, bassist, drummer, and vocalist. 
+
+Given this information, **Wolf Alice** likely has a higher instrument-to-person ratio compared to Badly Drawn Boy, as they are a full band with multiple instruments being played by different members. Badly Drawn Boy, as a solo act, would have a lower ratio unless accompanied by additional musicians. 
+
+Let me know if you'd like further clarification!","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.25179019570350647}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.25179019570350647}]"
+What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?,World's Best Goalkeeper,1,1,"The father of Kasper Schmeichel is Peter Schmeichel. In 1992, Peter Schmeichel was voted the **World's Best Goalkeeper** by the International Federation of Football History & Statistics (IFFHS). This recognition came during his successful career, particularly while he was playing for Manchester United.","The context provided does not mention anything about Kasper Schmeichel, his father, or the IFFHS (International Federation of Football History & Statistics) in 1992. Therefore, I will use my own knowledge to answer the question.
+
+Kasper Schmeichel's father is Peter Schmeichel, a legendary Danish goalkeeper. In 1992, Peter Schmeichel was voted the **World's Best Goalkeeper** by the IFFHS. This recognition came during a highly successful period in his career, which included winning the UEFA Euro 1992 with Denmark.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.17265333235263824}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.17265333235263824}]"
+Who was the writer of These Boots Are Made for Walkin' and who died in 2007?,Barton Lee Hazlewood,1,1,"The writer of ""These Boots Are Made for Walkin'"" is **Lee Hazlewood**. He co-wrote the song with Nancy Sinatra, who famously recorded it in 1966. Lee Hazlewood passed away in **2007**.","The song ""These Boots Are Made for Walkin'"" was written by **Lee Hazlewood**. He passed away in **2007**. 
+
+So, the writer of ""These Boots Are Made for Walkin'"" who died in 2007 is **Lee Hazlewood**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2183326780796051}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2183326780796051}]"
+"The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",1838,1,1,"The Virginia Commonwealth University (VCU) was founded in 1838. The 2011–12 VCU Rams men's basketball team, led by head coach Shaka Smart, represented this institution during that season.","The context provided does not mention the founding year of Virginia Commonwealth University (VCU). Therefore, I will use my knowledge to answer the question.
+
+Virginia Commonwealth University (VCU) was founded in **1838**. 
+
+The 2011–12 VCU Rams men's basketball team, led by head coach Shaka Smart, represented VCU during that season.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20580463111400604}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20580463111400604}]"
+"Are both Dictyosperma, and Huernia described as a genus?",yes,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty, so there is no information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**  
+Yes, both **Dictyosperma** and **Huernia** are described as genera.  
+- **Dictyosperma** is a genus of flowering plants in the palm family (Arecaceae).  
+- **Huernia** is a genus of succulent plants in the family Apocynaceae, known for their unique star-shaped flowers.  
+
+Both are recognized as distinct genera in their respective plant families.","The context you provided does not mention anything about Dictyosperma or Huernia. Therefore, I will use my own knowledge to answer your question.
+
+Yes, both **Dictyosperma** and **Huernia** are described as genera.
+
+- **Dictyosperma** is a genus of flowering plants in the palm family (Arecaceae). It includes species like Dictyosperma album, commonly known as the princess palm.
+- **Huernia** is a genus of succulent plants in the family Apocynaceae, known for their unique, star-shaped flowers.
+
+Both are recognized as distinct genera in their respective plant families.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.165294349193573}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.165294349193573}]"
+Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?,Henry J. Kaiser,1,1,"Kaiser Ventures Corporation was founded by Henry J. Kaiser, an American industrialist who is often referred to as the father of modern American shipbuilding. Kaiser was instrumental in revolutionizing shipbuilding during World War II, particularly through the use of assembly-line techniques, which significantly increased the speed and efficiency of ship production. His efforts played a crucial role in supporting the Allied war effort.","The context provided does not mention anything about Kaiser Ventures corporation or its founder. Therefore, I will use my own knowledge to answer the question.
+
+Kaiser Ventures Corporation was founded by Henry J. Kaiser, an American industrialist who became known as the father of modern American shipbuilding. He played a significant role in the development of shipbuilding techniques during World War II, particularly through his Kaiser Shipyards, which produced ships at an unprecedented rate.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21423199772834778}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21423199772834778}]"
+"What is the name for the adventure in ""Tunnels and Trolls"", a game designed by Ken St. Andre?",Arena of Khazan,1,1,"The adventure in ""Tunnels and Trolls"" designed by Ken St. Andre is called **""Buffalo Castle""**. It is one of the earliest solo adventures in the game and is well-known among fans of the series.","The context provided does not mention anything about ""Tunnels and Trolls"" or its adventures. Therefore, I will use my own knowledge to answer your question.
+
+In ""Tunnels and Trolls,"" a role-playing game designed by Ken St. Andre, the term used for an adventure or scenario is typically called a ""solo adventure"" or ""GM adventure,"" depending on whether it is designed for solo play or for a group with a Game Master (GM). These adventures are often referred to as ""modules"" or ""quests"" within the game's community. One of the most famous solo adventures in ""Tunnels and Trolls"" is ""Buffalo Castle,"" which is often cited as the first solo adventure ever published for a role-playing game.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.3046436309814453}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.3046436309814453}]"
+"When was Poison's album ""Shut Up, Make Love"" released?",2000,1,1,"The album ""Shut Up, Make Love"" by Poison was not released as a standalone album. However, the song ""Shut Up, Make Love"" is featured on Poison's debut studio album, **""Look What the Cat Dragged In,""** which was released on **August 2, 1986**. If you are referring to the song, it is part of this album. Let me know if you need further clarification!","The context provided does not mention anything about Poison's album ""Shut Up, Make Love"" or its release date. Therefore, I will use my own knowledge to answer your question.
+
+Poison's album ""Shut Up, Make Love"" was not an official studio album. Instead, ""Shut Up, Make Love"" is a song from Poison's debut studio album, *Look What the Cat Dragged In*, which was released on **August 2, 1986**. The song itself became popular and is one of the band's well-known tracks. 
+
+Let me know if you need further clarification!","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21762336790561676}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21762336790561676}]"
+"Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?","Fujioka, Gunma",1,1,"**Step 1: Analyze context for answering questions.**
+The context provided mentions that Hayden is a singer-songwriter from Canada. However, there is no information about Buck-Tick.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question about Buck-Tick.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+The context does not mention Buck-Tick, so no information can be used from it.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context does not mention Buck-Tick, I will use my own knowledge to answer the question.
+
+**Step 5: Answer the question.**
+Buck-Tick is a Japanese rock band, hailing from Fujioka, Gunma Prefecture, Japan.","**Step 1: Analyze context for answering questions.**
+The context provided is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any relevant information about Hayden or Buck-Tick.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question about Buck-Tick's origin.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+The context does not mention Buck-Tick or their origin.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is irrelevant, I will use my own knowledge to answer the question.
+
+**Step 5: Answer the question.**
+Buck-Tick is a Japanese rock band, so they hail from Japan.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20706696808338165}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20706696808338165}]"
+Which  French ace pilot and adventurer fly L'Oiseau Blanc,Charles Eugène,1,1,"The French ace pilot and adventurer who flew *L'Oiseau Blanc* (The White Bird) was **Charles Nungesser**. Along with his navigator, François Coli, Nungesser attempted to make the first non-stop transatlantic flight from Paris to New York in May 1927. Unfortunately, their plane disappeared over the Atlantic, and their fate remains a mystery. This occurred just weeks before Charles Lindbergh successfully completed his solo transatlantic flight.","The French ace pilot and adventurer who flew *L'Oiseau Blanc* (The White Bird) was **Charles Nungesser**. Along with his navigator, François Coli, Nungesser attempted to make the first non-stop transatlantic flight from Paris to New York in May 1927. Unfortunately, their plane disappeared, and their fate remains a mystery. This was just a few weeks before Charles Lindbergh successfully completed his solo transatlantic flight.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.19161850214004517}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.19161850214004517}]"
+Are Freakonomics and In the Realm of the Hackers both American documentaries?,no,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze regarding the documentaries ""Freakonomics"" and ""In the Realm of the Hackers.""
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+Since the context is empty, it is not relevant to the question.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is provided in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+I will use my own knowledge to answer the question.
+
+**Step 5: Answer the question.**
+""Freakonomics"" is an American documentary based on the book by Steven D. Levitt and Stephen J. Dubner, which explores various economic and social phenomena. On the other hand, ""In the Realm of the Hackers"" is an Australian documentary that delves into the world of computer hacking and cybercrime. Therefore, only ""Freakonomics"" is an American documentary, while ""In the Realm of the Hackers"" is not.","Step 1: Analyze context for answering questions.
+The provided context is:
+```
+t: i
+s: e
+
+t: i
+s: e
+```
+This context does not provide any relevant information about the documentaries ""Freakonomics"" or ""In the Realm of the Hackers.""
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention anything about the documentaries.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my own knowledge to answer the question.
+
+Step 5: Answer the question.
+- **Freakonomics**: This is an American documentary based on the book by Steven D. Levitt and Stephen J. Dubner. It explores various economic and social issues using economic theories.
+- **In the Realm of the Hackers**: This is an Australian documentary that delves into the world of computer hacking and cybercrime.
+
+**Answer**: No, ""Freakonomics"" is an American documentary, but ""In the Realm of the Hackers"" is an Australian documentary.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23824699223041534}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23824699223041534}]"
+"Which band, Letters to Cleo or Screaming Trees, had more members?",Letters to Cleo,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty, so there is no specific information about the bands Letters to Cleo or Screaming Trees.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is available in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my knowledge.
+
+**Step 5: Answer the question.**  
+Letters to Cleo typically had 5 members, while Screaming Trees had 4 members. Therefore, **Letters to Cleo had more members**.","The context provided does not mention either Letters to Cleo or Screaming Trees, so I will use my general knowledge to answer the question.
+
+Letters to Cleo is an alternative rock band that typically had around 5 members. Screaming Trees, a grunge band, also had around 5 members during most of their active years. Therefore, both bands had a similar number of members, and neither had significantly more members than the other.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.18491175770759583}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.18491175770759583}]"
+Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?,October 1922,1,1,"Alexander Kerensky, a key figure in the Russian Provisional Government, was defeated by the Bolsheviks during the Russian Civil War. The civil war began in 1917 after the Bolsheviks seized power in the October Revolution and lasted until 1922. The Bolsheviks emerged victorious, consolidating their control over Russia and establishing the Soviet Union. Therefore, the civil war ended in **1922**.","The context provided does not mention Alexander Kerensky, the Bolsheviks, or the civil war. Therefore, I will use my own knowledge to answer the question.
+
+Alexander Kerensky was a key political figure in Russia during the Russian Revolution. He led the Provisional Government after the February Revolution of 1917 but was overthrown by the Bolsheviks during the October Revolution later that same year. The Russian Civil War, which followed the Bolshevik seizure of power, lasted from 1917 to 1922. The Bolsheviks, led by Vladimir Lenin, ultimately emerged victorious, consolidating their control over Russia and establishing the Soviet Union.
+
+Thus, the civil war ended in **1922**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.15682251751422882}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.15682251751422882}]"
+Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?,2000,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my knowledge.
+
+**Step 5: Answer the question.**
+The book *Seven Brief Lessons on Physics* was written by Carlo Rovelli, an Italian physicist. He has worked in France since the early 1990s. Specifically, he joined the Centre de Physique Théorique in Marseille in 1990. 
+
+**Final Answer**: Carlo Rovelli has worked in France since **1990**.","The context provided does not mention anything about the book *Seven Brief Lessons on Physics* or its author. Therefore, I will use my own knowledge to answer the question.
+
+*Seven Brief Lessons on Physics* was written by **Carlo Rovelli**, an Italian theoretical physicist. He has worked in France since **1987**, primarily at the Centre de Physique Théorique in Marseille. 
+
+So, the answer is: **1987**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23800310492515564}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23800310492515564}]"
+"The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",World War II,1,1,"The Livesey Hal War Memorial commemorates the fallen of **World War I**, which had over 60 million casualties. This war, also known as the Great War, took place from 1914 to 1918 and involved many nations across the globe. The memorial honors those who lost their lives during this devastating conflict.","The Livesey Hal War Memorial commemorates the fallen of **World War I**, which had over 60 million casualties. This war, also known as the Great War, took place from 1914 to 1918 and involved many nations across the globe. The memorial honors those who lost their lives during this devastating conflict.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.19175861775875092}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.19175861775875092}]"
+Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?,no,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty (''''''), so there is no information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my knowledge to answer the question.
+
+**Step 5: Answer the question.**  
+Yes, both Elko Regional Airport and Gerald R. Ford International Airport are located in Michigan.  
+- Elko Regional Airport is located in Elko, Michigan.  
+- Gerald R. Ford International Airport is located in Grand Rapids, Michigan.","Step 1: Analyze context for answering questions.
+The context provided does not mention Elko Regional Airport or Gerald R. Ford International Airport, nor does it provide any information about their locations.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention the airports or their locations.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my knowledge to answer the question.
+
+Step 5: Answer the question.
+Elko Regional Airport is located in Nevada, not Michigan. Gerald R. Ford International Airport, however, is located in Michigan. Therefore, only Gerald R. Ford International Airport is located in Michigan.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.26587557792663574}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.26587557792663574}]"
+Ralph Hefferline was a psychology professor at a university that is located in what city?,New York City,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, as indicated by the empty triple quotes.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my knowledge.
+
+**Step 5: Answer the question.**
+Ralph Hefferline was a psychology professor at Columbia University, which is located in **New York City**.","The context provided does not mention Ralph Hefferline or any information related to his position as a psychology professor. Therefore, I will use my general knowledge to answer the question.
+
+Ralph Hefferline was a psychology professor at Columbia University, which is located in New York City. 
+
+**Answer**: New York City.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.22519730031490326}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.22519730031490326}]"
+Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?,Scotch Collie,1,1,Error in simple generation,"The context provided does not mention anything about the ancestors of the Manchester Terrier or the Scotch Collie, nor does it reference Gordon or Irish Setters. Therefore, I will use my own knowledge to answer the question.
+
+The dog breed whose ancestors include Gordon and Irish Setters is the **Manchester Terrier**. The Manchester Terrier has a lineage that traces back to these breeds, among others. The Scotch Collie, on the other hand, does not have a direct ancestral connection to Gordon or Irish Setters. 
+
+So, the correct answer is the **Manchester Terrier**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2189178317785263}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2189178317785263}]"
+Where is the company that Sachin Warrier worked for as a software engineer headquartered? ,Mumbai,1,1,"Since there is no context provided about Sachin Warrier or the company he worked for as a software engineer, I cannot provide a specific answer to the question. If you have additional details or context, feel free to share, and I can assist further!","Step 1: Analyze context for answering questions.
+- The provided context is: 
+  ```
+  t: i
+  s: e
+
+  t: i
+  s: e
+  ```
+  This context does not contain any information about Sachin Warrier or the company he worked for as a software engineer.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+- The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+- The context does not mention Sachin Warrier or any company.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+- Since the context is irrelevant, I will rely on my own knowledge.
+
+Step 5: Answer the question.
+- Based on my knowledge, I do not have specific information about where the company Sachin Warrier worked for as a software engineer is headquartered. If you have more details about the company, I might be able to provide a more accurate answer.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2038591504096985}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2038591504096985}]"
+"A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?",1962,1,1,"The Japanese manga series you are referring to is likely *""I""s* (pronounced ""I""s), which is written and illustrated by **Masakazu Katsura**. Masakazu Katsura was born on **December 10, 1962**. Therefore, the manga series is written and illustrated by someone born in **1962**.","The context provided does not mention any information about a Japanese manga series or its creator. Therefore, I will use my own knowledge to answer the question.
+
+The manga series you are referring to is likely ""I""s"" (pronounced ""Izu""), which is written and illustrated by Masakazu Katsura. Masakazu Katsura was born on December 10, 1962. 
+
+So, the creator of the manga series based on Ichitaka Seto was born in **1962**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.230998694896698}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.230998694896698}]"
+The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?,sovereignty,1,1,"Giuseppe Arimondi was an Italian general who lost his life during the **Battle of Adwa** on March 1, 1896. This battle was a decisive victory for Ethiopia over Italy, securing Ethiopia's sovereignty and independence. The victory at Adwa ensured that Ethiopia remained one of the few African nations to resist European colonization during the Scramble for Africa. It also solidified Ethiopia's status as a symbol of African resistance and pride.","The context provided does not mention anything about Giuseppe Arimondi or the battle in which he lost his life. Therefore, I will use my own knowledge to answer the question.
+
+Giuseppe Arimondi was an Italian general who died during the Battle of Adwa on March 1, 1896. This battle was a significant conflict between the Ethiopian Empire and the Kingdom of Italy. The Ethiopian forces, led by Emperor Menelik II, decisively defeated the Italian army. This victory secured Ethiopia's independence and ensured that it remained one of the few African nations to avoid colonization during the Scramble for Africa. The Battle of Adwa is a celebrated event in Ethiopian history and is seen as a symbol of African resistance to European imperialism.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23188795149326324}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23188795149326324}]"
+Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?,Nelson Rockefeller,1,1,Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under Vice President **Hubert H. Humphrey**. This committee was part of the broader efforts during the 1960s to address racial and gender disparities in the news media. Hubert H. Humphrey was Vice President under President Lyndon B. Johnson from 1965 to 1969.,"The context provided does not mention Alfred Balk, the Committee on the Employment of Minority Groups in the News Media, or any United States Vice President. Therefore, I will use my own knowledge to answer the question.
+
+Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under Vice President **Hubert H. Humphrey**. This committee was part of the broader efforts during the 1960s to address racial and ethnic diversity in the media industry.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.24665257334709167}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.24665257334709167}]"
+"A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",Yellowcraig,1,1,"**Step 1: Analyze context for answering questions.**  
+The question asks about a medieval fortress in Dirleton, East Lothian, Scotland, and its bordering coastal area on the south side. The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant because it is empty and does not provide any information related to the question.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+Since the context is empty, there is no information to use.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+I will use my knowledge to answer the question.
+
+**Step 5: Answer the question.**  
+The medieval fortress in Dirleton, East Lothian, Scotland, is Dirleton Castle. It borders the Firth of Forth on its south side, which is a coastal area. The Firth of Forth is a significant estuary and coastal region in eastern Scotland. 
+
+**Final Answer:**  
+Dirleton Castle borders the Firth of Forth on its south side.","The medieval fortress in Dirleton, East Lothian, Scotland, is Dirleton Castle. It borders the **Firth of Forth** on the south side. The Firth of Forth is a coastal area and estuary of the River Forth, which flows into the North Sea. This location provides a strategic position for the castle, historically used for defense and control of the surrounding region.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2267676144838333}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2267676144838333}]"
+Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?,Phil Spector,1,1,"The song you are referring to is likely ""Be My Baby,"" which was written by Jeff Barry, Ellie Greenwich, and Phil Spector. It was performed by The Ronettes and is one of the most iconic songs of the 1960s. The song was indeed the first track on the box set *Back to Mono (1958–1969)*, which is a compilation of Phil Spector's work. However, the detail about being inspired by words on a tombstone is not directly associated with this song. If you are referring to a different song, please provide more context or clarify.","The song you are referring to is ""Be My Baby,"" which was written by Jeff Barry, Ellie Greenwich, and Phil Spector. It was performed by The Ronettes and is indeed the first track on the box set *Back to Mono*. The song is iconic and was inspired by the words on a tombstone, as you mentioned. The context you provided does not relate to this question, so I used my knowledge to answer it.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20134392380714417}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20134392380714417}]"
+What type of forum did a former Soviet statesman initiate?,Organizations could come together to address global issues,1,1,"The context provided does not mention any information about a former Soviet statesman initiating a forum. Therefore, based on my knowledge, I can provide an answer.
+
+A former Soviet statesman, Mikhail Gorbachev, initiated the **World Political Forum** in 2003. This forum was established to promote dialogue and cooperation among global leaders on pressing international issues, reflecting Gorbachev's commitment to fostering peace and collaboration in the post-Cold War era.","The context provided does not mention anything about a former Soviet statesman or any type of forum they might have initiated. Therefore, I will use my own knowledge to answer the question.
+
+A former Soviet statesman, Mikhail Gorbachev, initiated the **Gorbachev Foundation** (officially known as the International Foundation for Socio-Economic and Political Studies). This organization serves as a forum for discussing global issues, promoting democratic reforms, and fostering dialogue on international relations. Gorbachev, the last leader of the Soviet Union, established this foundation after the dissolution of the USSR to continue his work on political and social change.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2344260811805725}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2344260811805725}]"
+Are Ferocactus and Silene both types of plant?,yes,1,1,"**Step 1: Analyze context for answering questions.**  
+The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**  
+The context is not relevant to the question since it contains no information.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**  
+No relevant information is present in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**  
+Since the context is empty, I will rely on my own knowledge.
+
+**Step 5: Answer the question.**  
+Yes, Ferocactus and Silene are both types of plants. Ferocactus is a genus of barrel cacti, while Silene is a genus of flowering plants commonly known as campions or catchflies. Both belong to the plant kingdom but are in different families (Cactaceae for Ferocactus and Caryophyllaceae for Silene).","Step 1: Analyze context for answering questions.  
+The context provided is:  
+```  
+t: i  
+s: e  
+
+t: i  
+s: e  
+```  
+This context does not provide any information about Ferocactus or Silene.  
+
+Step 2: Decide context is relevant with question or not relevant with question.  
+The context is not relevant to the question.  
+
+Step 3: If any topic about question mentioned in context, use that information for question.  
+The context does not mention Ferocactus or Silene.  
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.  
+Since the context is irrelevant, I will use my knowledge to answer the question.  
+
+Step 5: Answer the question.  
+Yes, Ferocactus and Silene are both types of plants.  
+- Ferocactus is a genus of cacti, commonly known as barrel cacti.  
+- Silene is a genus of flowering plants in the family Caryophyllaceae, commonly known as campions or catchflies.  
+
+Both are distinct types of plants, but they belong to different plant families.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.1671261489391327}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.1671261489391327}]"
+Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?,English Electric Canberra,1,1,"The British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II was the **Gloster Meteor**. However, it is important to note that the Gloster Meteor was primarily a fighter aircraft, not a bomber, and its use in the South West Pacific theatre was limited. The Meteor was the only Allied jet aircraft to see combat during World War II, but its deployment in the Pacific was minimal compared to its use in Europe. If you are referring to a specific jet-powered bomber, there might be some confusion, as jet-powered bombers were not widely used in the Pacific theatre during World War II.","The British first-generation jet-powered medium bomber used in the South West Pacific theatre of World War II was the **English Electric Canberra**. However, it is important to note that the Canberra was developed after World War II and did not see service during the war. If you are referring to a jet-powered bomber used during World War II, the **Gloster Meteor** was the only operational British jet fighter during the war, but it was not a bomber. 
+
+If you meant a non-jet-powered medium bomber used in the South West Pacific theatre, the **Bristol Beaufighter** or **De Havilland Mosquito** might be relevant, but they were not jet-powered. 
+
+Let me know if you need further clarification!","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.18286503851413727}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.18286503851413727}]"
+Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?,2009 Big 12 Conference,1,1,"The Colorado Buffaloes played in the Big 12 Conference during the 2006 season, which was the 14th season for the Big 12 Conference as part of NCAA Division I. In that season, the Colorado Buffaloes had a record of 2-6 in conference play.","The context provided does not mention any specific year, conference, or details about the Colorado Buffaloes' 14th season in NCAA Division play. Therefore, I will use my general knowledge to answer your question.
+
+The Colorado Buffaloes are part of the NCAA Division I Football Bowl Subdivision (FBS). They have been members of several conferences over the years, including the Big 12 and the Pac-12. 
+
+If you are referring to their time in the Pac-12 Conference, the 14th season for the Colorado Buffaloes in the Pac-12 would be the 2023 season. However, their record in conference play for that season would need to be verified, as it is not provided in the context.
+
+If you are referring to their time in the Big 12 Conference, the 14th season would have been around the early 2000s, but again, specific details about their record in conference play would need to be confirmed.
+
+For a precise answer, please provide more context or specify the conference you are referring to.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21988815069198608}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21988815069198608}]"
+In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?,"1,462",1,1,"To answer the question about Euromarché being bought by a chain that operated a certain number of hypermarkets at the end of 2016, I will use my knowledge since no specific context was provided.
+
+Euromarché was acquired by **Auchan** in 1991. As of the end of 2016, Auchan operated **356 hypermarkets** worldwide. 
+
+So, the chain that bought Euromarché (Auchan) operated **356 hypermarkets** at the end of 2016.","The context provided does not mention anything about Euromarché, hypermarkets, or the year 1991. Therefore, I will use my own knowledge to answer the question.
+
+In 1991, Euromarché was bought by the Auchan Group, a French multinational retail group. As of the end of 2016, Auchan operated approximately 1,200 hypermarkets worldwide. 
+
+**Answer**: At the end of 2016, the chain that bought Euromarché in 1991 (Auchan) operated around 1,200 hypermarkets.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23661257326602936}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23661257326602936}]"
+What race track in the midwest hosts a 500 mile race eavery May?,Indianapolis Motor Speedway,1,1,"The race track in the Midwest that hosts a 500-mile race every May is the **Indianapolis Motor Speedway** in Indiana. This event is known as the **Indianapolis 500**, often referred to as ""The Greatest Spectacle in Racing."" It is one of the most prestigious and historic motorsport events in the world.","The race track in the Midwest that hosts a 500-mile race every May is the **Indianapolis Motor Speedway** in Indiana. This event is known as the **Indianapolis 500**, often referred to as the ""Indy 500,"" and is one of the most famous motorsport events in the world.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.19043651223182678}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.19043651223182678}]"
+"In what city did the ""Prince of tenors"" star in a film based on an opera by Giacomo Puccini?",Rome,1,1,"The ""Prince of Tenors"" refers to the famous Italian tenor Enrico Caruso. He starred in the film *My Cousin*, which is based on Giacomo Puccini's opera *Madama Butterfly*. The film was shot in **New York City**, where Caruso was a prominent figure at the Metropolitan Opera. 
+
+So, the answer is **New York City**.","The ""Prince of Tenors"" refers to the famous Italian tenor Enrico Caruso. He starred in the film *My Cousin*, which is based on Giacomo Puccini's opera *Madama Butterfly*. The film was shot in New York City. Therefore, the city where the ""Prince of Tenors"" starred in a film based on an opera by Giacomo Puccini is **New York City**. 
+
+The context you provided does not relate to the question, so I used my knowledge to answer it.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.15167924761772156}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.15167924761772156}]"
+"Ellie Goulding worked with what other writers on her third studio album, Delirium?","Max Martin, Savan Kotecha and Ilya Salmanzadeh",1,1,"Ellie Goulding collaborated with several writers and producers on her third studio album, *Delirium*. Some of the notable collaborators include:
+
+- **Max Martin**: A highly influential producer and songwriter who worked on tracks like ""On My Mind"" and ""Something in the Way You Move.""
+- **Greg Kurstin**: Known for his work with Adele and Sia, he co-wrote and produced songs such as ""Army.""
+- **Ryan Tedder**: The lead singer of OneRepublic, who co-wrote ""Keep On Dancin'.""
+- **Laleh Pourkarim**: A Swedish singer-songwriter who co-wrote ""Lost and Found.""
+- **Joel Little**: Known for his work with Lorde, he co-wrote ""We Can’t Move to This.""
+- **Ali Payami**: A Swedish producer who worked on tracks like ""Don’t Need Nobody.""
+
+These collaborations helped shape the pop-oriented sound of *Delirium*. Let me know if you'd like more details!","Ellie Goulding collaborated with several writers on her third studio album, *Delirium*. Some of the notable collaborators include Max Martin, Greg Kurstin, Ryan Tedder, and Laleh Pourkarim. These writers contributed to the album's pop-oriented sound and helped craft many of its tracks. If you need more specific details about individual songs or additional collaborators, let me know!","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21723641455173492}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21723641455173492}]"
+Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.,"Marion, South Australia",1,1,"The Australian city you are referring to is **Melbourne**. The boarding school opened by a Prime Minister of Australia is **Scotch College**, which was founded in 1851 by James Forbes, a Presbyterian minister, and later supported by Sir Robert Menzies, who was a Prime Minister of Australia. The school is named after the **Scotch College** in London. Melbourne was founded in 1835, but the establishment of Scotch College in 1851 aligns with the context of your question.","The Australian city you are referring to is **Adelaide**, which was founded in 1838. The boarding school opened by a Prime Minister of Australia is **Prince Alfred College**. It was named after the Prince Alfred College in London and was established by Sir Thomas Elder, who was a prominent figure in South Australia and a close associate of Sir Robert Menzies, a former Prime Minister of Australia.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.1867234855890274}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.1867234855890274}]"
+D1NZ is a series based on what oversteering technique?,Drifting,1,1,"D1NZ is a drifting series based on the oversteering technique known as ""drifting."" Drifting is a driving technique where the driver intentionally oversteers, causing the rear wheels to lose traction while maintaining control through a turn. This technique is a key element in the sport of drifting, which is the focus of the D1NZ series.","The context provided does not mention anything about D1NZ or oversteering techniques. Therefore, I will use my own knowledge to answer your question.
+
+D1NZ is a drifting series based on the technique of **oversteering**, where drivers intentionally cause the rear wheels to lose traction while maintaining control of the vehicle. This technique is fundamental to the sport of drifting, which emphasizes style, control, and precision in executing slides and turns.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21223480999469757}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21223480999469757}]"
+who is younger Keith Bostic or Jerry Glanville ?,Keith Bostic,1,1,"The context provided does not mention Keith Bostic or Jerry Glanville, so I will use my general knowledge to answer the question.
+
+Keith Bostic is a software engineer known for his contributions to the Berkeley Software Distribution (BSD). Jerry Glanville is a former American football coach. Without specific birthdates or ages provided, it is difficult to determine who is younger. If you have their birthdates or additional context, I can provide a more accurate answer.","The context provided does not mention Keith Bostic or Jerry Glanville, so I will use my general knowledge to answer the question.
+
+Keith Bostic and Jerry Glanville are both public figures, but they are known for different fields. Keith Bostic is a software engineer known for his work on BSD Unix, while Jerry Glanville is a former American football coach. 
+
+To determine who is younger, we can look at their birth years:
+- Keith Bostic was born on **January 23, 1959**.
+- Jerry Glanville was born on **October 14, 1941**.
+
+Based on this information, **Keith Bostic is younger than Jerry Glanville**.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.17839035391807556}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.17839035391807556}]"
+"According to the 2001 census, what was the population of the city in which Kirton End is located?","35,124",1,1,"Step 1: Analyze context for answering questions.  
+The provided context is empty, so there is no information about Kirton End or its associated city.
+
+Step 2: Decide context is relevant with question or not relevant with question.  
+The context is not relevant to the question since it contains no information.
+
+Step 3: If any topic about question mentioned in context, use that information for question.  
+No relevant information is present in the context.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.  
+Since the context is empty, I will rely on my knowledge.
+
+Step 5: Answer the question.  
+Kirton End is a small village located in Lincolnshire, England. According to the 2001 census, the population of Lincolnshire was approximately 646,600. However, the specific population of Kirton End or its nearest city (likely Boston, Lincolnshire) is not readily available in my training data. For precise figures, you may need to consult the 2001 census data for Lincolnshire or the specific city/town associated with Kirton End.","The context provided does not mention anything about the 2001 census, Kirton End, or the population of any city. Therefore, I will use my general knowledge to answer your question.
+
+Kirton End is a small village located in Lincolnshire, England. According to the 2001 census, the population of Kirton End itself is not specifically recorded, as it is part of the larger parish of Kirton. The population of the entire parish of Kirton was recorded as 5,417 in the 2001 census. If you are referring to a larger city nearby, such as Boston, Lincolnshire, the population of Boston in the 2001 census was approximately 35,124.
+
+If you have a specific city in mind, please provide more details, and I can give a more accurate answer.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.15818077325820923}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.15818077325820923}]"
+Are both Cypress and Ajuga genera?,no,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, as indicated by the series of apostrophes.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+Since the context is empty, it is not relevant to the question.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+There is no information in the context to use.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my own knowledge.
+
+**Step 5: Answer the question.**
+Yes, both Cypress and Ajuga are genera. Cypress refers to the genus *Cupressus* in the family Cupressaceae, which includes various species of coniferous trees. Ajuga, on the other hand, is a genus in the family Lamiaceae, commonly known as bugleweed, and includes various species of herbaceous plants.","The context you provided does not mention anything about Cypress or Ajuga, so I will use my own knowledge to answer your question.
+
+Yes, both **Cypress** and **Ajuga** are genera. 
+
+- **Cypress** refers to the genus *Cupressus*, which includes various species of coniferous trees and shrubs.
+- **Ajuga** is a genus of flowering plants in the mint family (*Lamiaceae*), commonly known as bugleweed.
+
+Both are distinct genera in the plant kingdom.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.15478160977363586}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.15478160977363586}]"
+What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?,shortest player ever to play in the National Basketball Association,1,1,"The former NBA player who holds the distinction of being a member of the Charlotte Hornets during their 1992-93 season and later served as the head coach for the WNBA team Charlotte Sting is **Allan Bristow**. 
+
+- **NBA Career**: Allan Bristow played for the Charlotte Hornets during the 1992-93 season, among other teams in his NBA career.
+- **WNBA Coaching**: After his playing career, Bristow transitioned to coaching and became the head coach of the Charlotte Sting, a WNBA team, in the early 2000s.
+
+This dual role as both a player and a coach in Charlotte's basketball history is a unique distinction held by Bristow.",Error,I don't know
+What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?,Ronald Shusett,1,1,"The context provided does not mention any specific film or its executive producer. Therefore, I will use my general knowledge to answer your question.
+
+Jerry Goldsmith composed scores for numerous films, so to identify the executive producer, we would need to know the specific film you are referring to. For example, if you are referring to the film *Star Trek: The Motion Picture* (1979), which has a score composed by Jerry Goldsmith, the executive producer was Gene Roddenberry. 
+
+If you have a specific film in mind, please provide its name, and I can give you more accurate information.","The context provided does not mention anything about a film, Jerry Goldsmith, or an executive producer. Therefore, I will use my own knowledge to answer your question.
+
+Jerry Goldsmith composed scores for numerous films, so to provide a specific answer, I would need to know which film you are referring to. For example, if you are asking about the film *Star Trek: The Motion Picture*, the executive producer was Gene Roddenberry. If you have a specific film in mind, please provide more details, and I can give you the name of the executive producer associated with that film.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.22693708539009094}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.22693708539009094}]"
+"Who was born earlier, Emma Bull or Virginia Woolf?",Adeline Virginia Woolf,1,1,Error in simple generation,Error,I don't know
+What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?,821,1,1,Error in simple generation,"The Roud Folk Song Index number for the nursery rhyme ""What Are Little Girls Made Of?"" is **11484**. This index is a database of folk songs and their variations, and it helps to catalog and reference traditional songs. The nursery rhyme itself is a traditional English rhyme that has been passed down through generations.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.1703999936580658}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.1703999936580658}]"
+Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?,more than 70 countries,1,1,"The context provided does not mention Scott Parkin, ExxonMobil, or any other corporation with operations in specific countries. Therefore, I will rely on my general knowledge.
+
+Scott Parkin is an environmental activist known for his criticism of corporations, including ExxonMobil. ExxonMobil operates in numerous countries worldwide, typically in over 40 countries. However, the exact number of countries where ExxonMobil operates can vary over time due to changes in their business operations.
+
+If you are referring to another specific corporation that Scott Parkin has criticized, please provide more details, and I can offer a more precise answer.","The context provided does not mention Scott Parkin, ExxonMobil, or any other corporation with operations in multiple countries. Therefore, I will use my general knowledge to answer the question.
+
+Scott Parkin is an environmental activist known for his criticism of corporations like ExxonMobil. ExxonMobil operates in numerous countries worldwide, typically in over 40 countries, depending on the specific operations and partnerships. However, the exact number of countries where ExxonMobil or another specific corporation operates may vary over time due to changes in business strategies and global markets. For precise and up-to-date information, it would be best to consult ExxonMobil's official reports or reliable business databases.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2541956305503845}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2541956305503845}]"
+What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?,Charmed,1,1,"**Step 1: Analyze context for answering questions.**
+The context provided is empty, so there is no specific information to analyze.
+
+**Step 2: Decide context is relevant with question or not relevant with question.**
+The context is not relevant to the question since it is empty.
+
+**Step 3: If any topic about question mentioned in context, use that information for question.**
+No relevant information is provided in the context.
+
+**Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.**
+Since the context is empty, I will rely on my own knowledge to answer the question.
+
+**Step 5: Answer the question.**
+Rose McGowan, known for her role in *Jawbreaker*, is best known for being in the WB supernatural drama series *Charmed*. She played the role of Paige Matthews, a half-whitelighter, half-witch, who joined the Halliwell sisters in their magical adventures.","Based on the context provided, there is no information about Rose McGowan or any WB supernatural drama series. Therefore, I will use my own knowledge to answer your question.
+
+Rose McGowan is best known for her role as Paige Matthews in the WB supernatural drama series **""Charmed.""** She joined the show in its fourth season, replacing Shannen Doherty's character, Prue Halliwell. ""Charmed"" is a popular series about three sisters who are witches and use their powers to battle supernatural forces.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.1621055155992508}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.1621055155992508}]"
+Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?,International Boxing Hall of Fame,1,1,Vince Phillips held a junior welterweight title by an organization recognized by the **International Boxing Hall of Fame (IBHOF)**. The IBHOF is the larger Hall of Fame that recognizes various boxing organizations and their champions.,"The context provided does not mention Vince Phillips or any information related to boxing titles or organizations. Therefore, I will use my own knowledge to answer the question.
+
+Vince Phillips held a junior welterweight title by the International Boxing Federation (IBF), which is recognized by the International Boxing Hall of Fame. The IBF is one of the major sanctioning bodies in professional boxing, and its titles are widely recognized within the sport.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.20355983078479767}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.20355983078479767}]"
+"What is the name of the singer who's song was released as the lead single from the album ""Confessions"", and that had popular song stuck behind for eight consecutive weeks?",Usher,1,1,Error in simple generation,"The singer you are referring to is **Usher**. The lead single from his album *Confessions* is **""Yeah!""** featuring Lil Jon and Ludacris. This song was extremely popular and spent eight consecutive weeks at the top of the Billboard Hot 100 chart in 2004.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.1849277913570404}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.1849277913570404}]"
+who is the younger brother of The episode guest stars of The Hard Easy ,Bill Murray,1,1,"The question asks about the younger brother of the guest stars of the episode ""The Hard Easy."" However, the context provided is empty, so I cannot use any specific information from it. Based on my knowledge, ""The Hard Easy"" is an episode of the TV show *The Suite Life of Zack & Cody*. The guest stars of that episode are not explicitly mentioned in widely available information, nor is there any specific reference to their younger brother. 
+
+If you have more context or details about the guest stars, I can provide a more accurate answer. Otherwise, I cannot determine the younger brother of the guest stars from the information available.","The context provided does not mention anything about ""The Hard Easy"" or its guest stars, nor does it provide information about a younger brother related to the episode. Therefore, I will use my general knowledge to answer your question.
+
+""The Hard Easy"" is an episode from the TV show *The Suite Life of Zack & Cody*. The guest stars in this episode include Brenda Song as London Tipton and Adrian R'Mante as Esteban. However, the context does not specify who the younger brother of any guest star might be. If you are referring to a specific guest star or character, please provide more details, and I can assist further.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23132462799549103}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23132462799549103}]"
+The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?,Carabao Cup,1,1,"The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as the **EFL Cup** for sponsorship reasons. During that season, it was sponsored by Carabao, so it was also referred to as the **Carabao Cup**.","The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as the **EFL Cup** for sponsorship reasons. During that season, the competition was officially named the **Carabao Cup** due to sponsorship by Carabao Energy Drink. 
+
+The context you provided does not mention anything about the question, so I used my knowledge to answer it.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21573488414287567}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21573488414287567}]"
+"Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the ""Teen Titans""?",Teen Titans Go!,1,1,"Tara Strong has voiced several characters in animated series, but one of her major roles in a series based on the DC Comics fictional superhero team, the ""Teen Titans,"" is **Raven**. Raven is a key member of the Teen Titans, and Tara Strong provided the voice for this character in the animated series *Teen Titans* (2003-2006) and its sequel, *Teen Titans Go!* (2013-present).","The context provided does not mention Tara Strong or any of her voice roles. Therefore, I will use my own knowledge to answer the question.
+
+Tara Strong voiced the character **Raven** in the animated series *Teen Titans*, which is based on the DC Comics fictional superhero team. Raven is one of the core members of the Teen Titans, known for her calm demeanor and powerful psychic abilities. Tara Strong's portrayal of Raven is highly acclaimed and remains one of her most iconic voice roles.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.23605278134346008}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.23605278134346008}]"
+What is the inhabitant of the city where  122nd SS-Standarte was formed in2014,"276,170 inhabitants",1,1,Error in simple generation,"The context provided does not mention anything about the 122nd SS-Standarte, its formation, or the city where it was formed. Therefore, I will use my general knowledge to answer your question.
+
+The 122nd SS-Standarte was a unit of the SS (Schutzstaffel), which was a major paramilitary organization under Adolf Hitler and the Nazi Party in Nazi Germany. However, the SS-Standarten were typically formed during the 1930s and 1940s, not in 2014. It is unclear what you are referring to with the mention of 2014, as the SS was disbanded after World War II in 1945.
+
+If you are referring to a modern organization or group using a similar name, it would not be related to the historical SS. In that case, more specific information would be needed to identify the city or its inhabitants.
+
+If you have additional context or details, please provide them for a more accurate answer.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21900585293769836}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21900585293769836}]"
+What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? ,orange,1,1,Error in simple generation,"Step 1: Analyze context for answering questions.
+The provided context (""t: i s: e t: i s: e"") does not contain any relevant information about the Netherlands, Oranjegekte, or Koningsdag.
+
+Step 2: Decide context is relevant with question or not relevant with question.
+The context is not relevant to the question.
+
+Step 3: If any topic about question mentioned in context, use that information for question.
+The context does not mention anything about the question.
+
+Step 4: If context has not mention on question, ignore that context I give you and use your self knowledge.
+Since the context is irrelevant, I will use my knowledge to answer the question.
+
+Step 5: Answer the question.
+During Oranjegekte or Koningsdag (King's Day), people in the Netherlands typically wear orange clothing. Orange is the national color of the Netherlands, symbolizing the Dutch royal family, the House of Orange-Nassau. It is common to see people dressed in orange outfits, accessories, and even face paint to celebrate these occasions.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.2285449206829071}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.2285449206829071}]"
+"What was the name of the 1996 loose adaptation of William Shakespeare's ""Romeo & Juliet"" written by James Gunn?",Tromeo and Juliet,1,1,"The 1996 loose adaptation of William Shakespeare's ""Romeo & Juliet"" written by James Gunn is titled **""Tromeo and Juliet.""** This film is a comedic and satirical take on the classic Shakespearean tragedy, produced by Troma Entertainment.","The 1996 loose adaptation of William Shakespeare's ""Romeo & Juliet"" is titled **""Romeo + Juliet""**. It was directed by Baz Luhrmann, not written by James Gunn. The film stars Leonardo DiCaprio and Claire Danes in the lead roles and is known for its modern setting and unique visual style. James Gunn is a filmmaker known for works like ""Guardians of the Galaxy,"" but he was not involved in this adaptation.","[{'text': 't: i\ns: e', 'metadata': {'title': 'doc-1', 'id': 1}, 'score': 0.21382050216197968}, {'text': 't: i\ns: e', 'metadata': {'title': 'doc-0', 'id': 0}, 'score': 0.21382050216197968}]"
